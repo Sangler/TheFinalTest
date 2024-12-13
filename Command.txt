@@ -1,0 +1,6 @@
+$git init
+//I create MyFile.txt
+$git add MyFile.txt
+//In Info directory, I create 2 files (InfoFile1.txt & InfoFile2.txt) 
+$cd ..
+$git add Info
